@@ -1,0 +1,26 @@
+apple, common fruit
+banana, long curved fruit
+carrot, orange vegetable
+dog, domesticated carnivorous mammal
+elephant, large herbivorous mammal with a long trunk
+fox, small carnivorous mammal with a bushy tail
+grape, small round fruit
+horse, large domesticated mammal with hooves
+iguana, type of lizard
+jellyfish, gelatinous marine creature
+kiwi, small bird native to New Zealand
+lemon, yellow citrus fruit
+monkey, primate animal
+nut, hard-shelled fruit
+octopus, marine creature with tentacles
+pear, sweet juicy fruit
+quail, small bird
+rabbit, small mammal with long ears
+strawberry, sweet red fruit
+tiger, large striped carnivorous cat
+umbrella, item used for rain protection
+violin, musical instrument with strings played with a bow
+wolf, mammal of the dog family known for howling and hunting abilities
+xylophone, musical instrument with wooden bars that are struck to produce sound
+yak, long-haired bovine mammal
+zebra, large wild animal with black and white stripes

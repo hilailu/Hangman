@@ -1,0 +1,26 @@
+apple, fruit
+banana, yellow fruit
+carrot, vegetable
+dog, domestic animal
+elephant, large mammal
+flower, plant
+guitar, musical instrument
+house, place to live
+island, land surrounded by water
+jazz, genre of music
+kangaroo, marsupial
+lemon, citrus fruit
+mountain, landform
+notebook, type of paper
+ocean, large body of water
+piano, musical instrument
+queen, female ruler
+rabbit, small mammal
+sunset, event at the end of the day
+tiger, large cat
+umbrella, item used for rain protection
+violin, string instrument
+watermelon, juicy fruit
+xylophone, musical instrument
+yacht, recreational boat
+zebra, black and white striped animal

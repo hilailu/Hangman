@@ -1,0 +1,26 @@
+antelope, fast-running mammal
+butterfly, insect with colorful wings
+cheetah, large cat known for its speed
+dolphin, marine mammal
+eagle, large bird of prey
+flamingo, long-legged wading bird
+giraffe, tall African mammal with a long neck
+hedgehog, small spiny mammal
+iris, flowering plant with showy, colorful petals
+jaguar, large spotted cat
+koala, small arboreal marsupial
+lion, large carnivorous feline
+moose, large deer with antlers
+narwhal, medium-sized toothed whale
+ostrich, large flightless bird
+penguin, flightless bird
+quokka, small marsupial
+rhinoceros, large herbivorous mammal
+squirrel, small arboreal rodent
+toucan, brightly colored bird with a large bill
+unicorn, mythical horse-like creature
+viper, venomous snake
+walrus, large marine mammal with tusks
+xenops, small bird found in South America
+yellowstone, national park known for its geothermal features and wildlife
+zucchini, type of summer squash with a green skin
